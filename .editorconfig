@@ -1,0 +1,26 @@
+# Editor configuration for Budget Tracker project
+
+# Indentation
+[*.{js,ts,jsx,tsx,html,css,scss,vue}]
+indent_style = space
+indent_size = 2
+
+# Encoding
+[*.{js,ts,jsx,tsx,html,css,scss,vue}]
+charset = utf-8
+
+# Line endings
+[*.{js,ts,jsx,tsx,html,css,scss,vue}]
+end_of_line = lf
+
+# Trailing whitespace
+[*.{js,ts,jsx,tsx,html,css,scss,vue}]
+trim_trailing_whitespace = true
+
+# Insert final newline
+[*.{js,ts,jsx,tsx,html,css,scss,vue}]
+insert_final_newline = true
+
+# Max line length
+[*.{js,ts,jsx,tsx,html,css,scss,vue}]
+max_line_length = 120
